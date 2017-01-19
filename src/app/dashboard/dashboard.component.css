@@ -1,0 +1,64 @@
+/*@media screen and (min-width: 1620px) {
+  .row.shift-up {
+
+ {
+    margin-top: -573px;
+  }
+}
+}
+@media screen and (max-width: 1620px) {
+  .card.feed-panel.large-card {
+    height: 824px;
+  }
+}
+.user-stats-card {
+
+.card-title {
+  padding: 0 0 15px;
+}
+}
+.addinfo{
+  background-color:#B1F5FB;
+  color: blue;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding:10px; border-radius:10px;
+}
+.navbar-inverse{
+  background:black;
+}
+.form-control{
+  padding: 18px !important;
+}
+.btn-md{
+  background: #B1F5FB;
+  color: blue
+}
+.heading{
+  color: blue
+}
+.jumbotron{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.updatevisitor{
+  background-color:lightblue;
+  padding:10px; border-radius:10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.btn-success
+float:right;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;width: 100%;
+}
+td, th {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 8px;
+}
+tr:nth-child(even)
+{
+  background-color: lightblue;
+}
+*/
+
